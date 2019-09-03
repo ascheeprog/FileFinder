@@ -1,0 +1,14 @@
+#outputTextArea
+{
+    -fx-background-color: #FFFFFF;
+    -fx-fill: #000000;
+    -fx-font-size: 9pt;
+
+}
+
+.text-highlight
+{   -rtfx-background-color: #FFFF00;
+    -fx-fill: black;
+    -rtfx-underline-cap: butt;
+    -rtfx-border-stroke-color: white;
+}
